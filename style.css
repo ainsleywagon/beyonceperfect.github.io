@@ -1,0 +1,66 @@
+@import url(http://fonts.googleapis.com/css?family=Signika:400,300,600);
+@import url(http://fonts.googleapis.com/css?family=Cantata+One&subset=latin,latin-ext);
+
+body {
+  font-family: 'Cantata One', Helvetica, sans-serif;
+  font-size: 5em;
+  color: white;
+}
+
+#home {
+  background: url(Beyonce.png) 50% 0 repeat fixed; min-height: 1000px;
+  height: 800px;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1920px;
+  position: relative;
+}
+
+#home article {
+  height: 458px;
+  position: absolute;
+  text-align: center;
+  top: 300px;
+  width: 100%;
+}
+
+#about {
+  background: url(bg_pattern.png) 50% 0 repeat; min-height: 1000px;
+  height: 800px;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1920px;
+  position: relative;
+/*   -webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8); */
+}
+
+#about article {
+  height: 458px;
+  position: absolute;
+  text-align: center;
+  top: 300px;
+  width: 100%;
+}
+
+#pat {
+  background: url(pills.png) 50% 0 repeat; min-height: 1000px;
+  height: 800px;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1920px;
+  position: relative;
+/*   -webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8); */
+}
+
+#pat article {
+  height: 458px;
+  position: absolute;
+  text-align: center;
+  top: 300px;
+  width: 100%;
+}
+
+#purpletext {
+  color: #ce5aff;
+  text-shadow: 30px 30px 100px black;
+}
