@@ -1,16 +1,15 @@
-@import url(http://fonts.googleapis.com/css?family=Signika:400,300,600);
 @import url(http://fonts.googleapis.com/css?family=Cantata+One&subset=latin,latin-ext);
 
 body {
   font-family: 'Cantata One', Helvetica, sans-serif;
-  font-size: 5em;
+  font-size: 7em;
   color: white;
 }
 
 #home {
   background: url(Beyonce2.png) 50% 0 repeat fixed; min-height: 1000px;
   height: 800px;
-  margin: 0 auto;
+  margin: 0;
   width: 100%;
   max-width: 1920px;
   position: relative;
@@ -24,7 +23,7 @@ body {
   width: 100%;
 }
 
-#about {
+#pat1 {
   background: url(bg_pattern.png) 50% 0 repeat; min-height: 1000px;
   height: 800px;
   margin: 0 auto;
@@ -34,16 +33,16 @@ body {
 /*   -webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8); */
 }
 
-#about article {
+#pat1 article {
   height: 458px;
   position: absolute;
   text-align: center;
-  top: 300px;
+  top: 370px;
   width: 100%;
 }
 
-#pat {
-  background: url(pills.png) 50% 0 repeat; min-height: 1000px;
+#pat2 {
+  background: url(blue-tri.png) 50% 0 repeat; min-height: 1000px;
   height: 800px;
   margin: 0 auto;
   width: 100%;
@@ -52,20 +51,19 @@ body {
 /*   -webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8); */
 }
 
-#pat article {
+#pat2 article {
   height: 458px;
   position: absolute;
   text-align: center;
-  top: 300px;
+  top: 370px;
   width: 100%;
 }
 
 #purpletext {
   color: #ce5aff;
-  text-shadow: 30px 30px 100px black;
 }
 
-#all {
+#pat3 {
   background: url(alliever.png) 50% 0 repeat; min-height: 1000px;
   height: 800px;
   margin: 0 auto;
@@ -75,11 +73,11 @@ body {
 /*   -webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8); */
 }
 
-#all article {
+#pat3 article {
   height: 458px;
   position: absolute;
   text-align: center;
-  top: 300px;
+  top: 370px;
   width: 100%;
 }
 
