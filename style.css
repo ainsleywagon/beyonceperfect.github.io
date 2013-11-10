@@ -15,7 +15,7 @@ body {
   position: relative;
 }
 
-#home article {
+article {
   height: 458px;
   position: absolute;
   text-align: center;
@@ -32,24 +32,18 @@ body {
   -webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8);  
 }
 
-.pattern article {
-  height: 458px;
-  position: absolute;
-  text-align: center;
-  top: 370px;
-  width: 100%;
-  color: #ce5aff;
-}
-
 #pat1 {
   background: url(bg_pattern.png) 50% 0 repeat; min-height: 1000px;
+  color: #d87bff;
 }
 
 #pat2 {
   background: url(blue-tri.png) 50% 0 repeat; min-height: 1000px;
+  color: #d54985;
 }
 
 #pat3 {
   background: url(alliever.png) 50% 0 repeat; min-height: 1000px;
+  color: #22006c;
 }
 
