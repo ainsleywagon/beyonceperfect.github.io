@@ -23,61 +23,33 @@ body {
   width: 100%;
 }
 
-#pat1 {
-  background: url(bg_pattern.png) 50% 0 repeat; min-height: 1000px;
+.pattern {
   height: 800px;
   margin: 0 auto;
   width: 100%;
   max-width: 1920px;
   position: relative;
-/*   -webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8); */
+  -webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8);  
 }
 
-#pat1 article {
+.pattern article {
   height: 458px;
   position: absolute;
   text-align: center;
   top: 370px;
   width: 100%;
+  color: #ce5aff;
+}
+
+#pat1 {
+  background: url(bg_pattern.png) 50% 0 repeat; min-height: 1000px;
 }
 
 #pat2 {
   background: url(blue-tri.png) 50% 0 repeat; min-height: 1000px;
-  height: 800px;
-  margin: 0 auto;
-  width: 100%;
-  max-width: 1920px;
-  position: relative;
-/*   -webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8); */
-}
-
-#pat2 article {
-  height: 458px;
-  position: absolute;
-  text-align: center;
-  top: 370px;
-  width: 100%;
-}
-
-#purpletext {
-  color: #ce5aff;
 }
 
 #pat3 {
   background: url(alliever.png) 50% 0 repeat; min-height: 1000px;
-  height: 800px;
-  margin: 0 auto;
-  width: 100%;
-  max-width: 1920px;
-  position: relative;
-/*   -webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8); */
-}
-
-#pat3 article {
-  height: 458px;
-  position: absolute;
-  text-align: center;
-  top: 370px;
-  width: 100%;
 }
 
